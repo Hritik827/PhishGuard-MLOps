@@ -1,0 +1,6 @@
+[ 2026-05-26 16:48:07,192 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-26 16:48:07,209 ] 107 dagshub - INFO - Accessing as Hritik827
+[ 2026-05-26 16:48:07,431 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Hritik827/PhishGuard-MLOps "HTTP/1.1 200 OK"
+[ 2026-05-26 16:48:07,600 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-26 16:48:07,601 ] 107 dagshub - INFO - Initialized MLflow to track repo "Hritik827/PhishGuard-MLOps"
+[ 2026-05-26 16:48:07,603 ] 107 dagshub - INFO - Repository Hritik827/PhishGuard-MLOps initialized!
