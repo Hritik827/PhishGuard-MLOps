@@ -1,5 +1,7 @@
 ### Network Security Projects For Phising Data
 
+### step to follow
+
 Setup github secrets:
 AWS_ACCESS_KEY_ID=
 
@@ -25,5 +27,6 @@ curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
 
 sudo usermod -aG docker ubuntu
+
 
 newgrp docker
