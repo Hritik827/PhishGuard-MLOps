@@ -102,7 +102,7 @@ jobs:
           IMAGE_TAG: latest
         run: |
           docker run -d \
-            -p 8000:8000 \
+            -p 8080:8000 \
             --ipc="host" \
             --name networksecurity \
             --restart unless-stopped \
